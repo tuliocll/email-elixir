@@ -13,7 +13,7 @@
 
 ## Sobre📖
 
-Projeto de exemplo utilizado para escrever o post: [Criando serviço de envio de e-mail com ELIXIR!🔮](https://dev.to/tuliocalil/backend-rest-e-dashboard-em-minutos-com-parse-5c72)
+Projeto de exemplo utilizado para escrever o post: [Criando serviço de envio de e-mail com ELIXIR!🔮](https://dev.to/tuliocalil/criando-servico-de-envio-de-e-mail-com-elixir-2l1g)
 
 ## Como usar ❓
 
